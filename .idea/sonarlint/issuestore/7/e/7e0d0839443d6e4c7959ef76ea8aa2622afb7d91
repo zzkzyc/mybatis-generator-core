@@ -1,0 +1,8 @@
+
+fsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ú¸½
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(²ÚŸøÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ˆ™­áüÿÿÿÿ
+bsquid:S1226"HIntroduce a new variable instead of reusing the parameter "indentLevel".(Ó¾ãüÿÿÿÿ
+bsquid:S1226"HIntroduce a new variable instead of reusing the parameter "indentLevel".(Å´±¤ÿÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ë¾õÇûÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÎáÕøúÿÿÿÿ

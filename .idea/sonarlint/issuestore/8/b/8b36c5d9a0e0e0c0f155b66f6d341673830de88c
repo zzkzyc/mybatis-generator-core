@@ -1,0 +1,13 @@
+
+Isquid:S1066"/Merge this if statement with the enclosing one.(™Šôüÿÿÿÿ
+Dsquid:S1066"/Merge this if statement with the enclosing one.(Ñ°¯®
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÓÕÂÔ
+wsquid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "connection".(úÓêÅ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(þÇºý
+:squid:S1166"%Either log or rethrow this exception.(”ý¾
+:squid:S1166"%Either log or rethrow this exception.(É®£
+’squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.sql.SQLException, java.lang.InterruptedException(æá³
+6squid:S2129"!Remove this "Boolean" constructor(Žþ†£
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ù÷“­
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(’ø§Ú

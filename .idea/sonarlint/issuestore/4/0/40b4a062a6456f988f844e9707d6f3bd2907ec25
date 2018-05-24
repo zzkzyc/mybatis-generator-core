@@ -1,0 +1,11 @@
+
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+]squid:S2259"CNullPointerException might be thrown as 'document' is nullable here(Ø´ãÊûÿÿÿÿ
+9squid:S1166"%Either log or rethrow this exception.(¢ò`
+:squid:S1166"%Either log or rethrow this exception.(Ã‡²ö
+?squid:S1166"%Either log or rethrow this exception.(ÊÊÆƒüÿÿÿÿ
+¥squid:S1160"Refactor this method to throw at most one checked exception instead of: java.io.IOException, org.mybatis.generator.exception.XMLParserException(û„­ù
+ªsquid:S1160"Refactor this method to throw at most one checked exception instead of: java.io.IOException, org.mybatis.generator.exception.XMLParserException(‰Âß²ıÿÿÿÿ
+¥squid:S1160"Refactor this method to throw at most one checked exception instead of: java.io.IOException, org.mybatis.generator.exception.XMLParserException(ÄÆŞé
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Œ±Ùùÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Œ±Ùùÿÿÿÿ

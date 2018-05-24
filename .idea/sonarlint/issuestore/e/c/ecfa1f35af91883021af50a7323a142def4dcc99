@@ -1,0 +1,6 @@
+
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(•Χ—Α
+Isquid:S1066"/Merge this if statement with the enclosing one.(έΫΤÿύÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "false" 8 times.(ύ ·
+osquid:S1067"ZReduce the number of conditional operators (7) used in the expression (maximum allowed 3).(«ΏΤ’
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(κιΥμωÿÿÿÿ

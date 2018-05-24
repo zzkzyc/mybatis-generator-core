@@ -1,0 +1,11 @@
+
+8squid:S2095"Close this "FileOutputStream".(éåÖ—þÿÿÿÿ
+_squid:S1226"EIntroduce a new variable instead of reusing the parameter "callback".(Ç¿šïüÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(êõÚè
+:squid:S1166"%Either log or rethrow this exception.(Ë‡ŸÁ
+:squid:S1166"%Either log or rethrow this exception.(Ë‡ŸÁ
+­squid:S1160"’Refactor this method to throw at most one checked exception instead of: java.sql.SQLException, java.io.IOException, java.lang.InterruptedException(öâæõÿÿÿÿÿ
+­squid:S1160"’Refactor this method to throw at most one checked exception instead of: java.sql.SQLException, java.io.IOException, java.lang.InterruptedException(òæÁõþÿÿÿÿ
+¨squid:S1160"’Refactor this method to throw at most one checked exception instead of: java.sql.SQLException, java.io.IOException, java.lang.InterruptedException(êõÚè
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ðíðëùÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(‚òŠé

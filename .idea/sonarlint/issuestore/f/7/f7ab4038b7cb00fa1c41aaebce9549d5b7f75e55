@@ -1,0 +1,19 @@
+
+jsquid:S1192"PDefine a constant instead of duplicating this literal "RuntimeError.19" 3 times.(ŠëõÆýÿÿÿÿ
+gsquid:S1871"MThis branch's code block is the same as the block for the branch on line 190.(å¢Ä€þÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢Š•Ê
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(ùëÊ­øÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+9squid:S1166"%Either log or rethrow this exception.(‚þÀ'
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(ï­£Ä
+:squid:S1166"%Either log or rethrow this exception.(°Ö±ð
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Usquid:S1147";Remove this call to "exit" or ensure it is really required.(“¤‚üúÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(…¡¸íûÿÿÿÿ

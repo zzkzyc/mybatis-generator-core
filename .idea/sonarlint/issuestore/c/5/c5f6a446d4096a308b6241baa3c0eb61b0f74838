@@ -1,0 +1,20 @@
+
+\squid:S1481";Remove this unused "selectByExampleQueryId" local variable.(–À–Íûÿÿÿÿ8ùø½¹,
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(±›…¨ÿÿÿÿÿ
+csquid:S1192"GDefine a constant instead of duplicating this literal "column" 3 times.(œã†¡8ùø½¹,
+dsquid:S1192"JDefine a constant instead of duplicating this literal "property" 11 times.(Ùİû²şÿÿÿÿ
+Vsquid:S1481":Remove this unused "enableDeleteByExample" local variable.(®€¶î8¹®«ÿ¸,
+dsquid:S1854"HRemove this useless assignment to local variable "enableCountByExample".(ÂÒë8çß«ÿ¸,
+jsquid:S1854"IRemove this useless assignment to local variable "enableSelectByExample".(“ÍÅ·ûÿÿÿÿ8ùø½¹,
+{squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æõÆ¾8µ¹¹,
+[squid:S1481":Remove this unused "enableSelectByExample" local variable.(“ÍÅ·ûÿÿÿÿ8ùø½¹,
+Nsquid:S1172"4Remove this unused method parameter "configuration".(ëõçÜÿÿÿÿÿ
+esquid:S1854"IRemove this useless assignment to local variable "enableDeleteByExample".(®€¶î8¹®«ÿ¸,
+hsquid:S1192"NDefine a constant instead of duplicating this literal "targetProject" 3 times.(à˜Û‚ıÿÿÿÿ
+ksquid:S1854"JRemove this useless assignment to local variable "selectByExampleQueryId".(–À–Íûÿÿÿÿ8ùø½¹,
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(­äÙÏ
+Usquid:S1481"9Remove this unused "enableCountByExample" local variable.(ÂÒë8çß«ÿ¸,
+:squid:S1166"%Either log or rethrow this exception.(ï­£Ä
+Vsquid:S1481":Remove this unused "enableUpdateByExample" local variable.(øØË8ùø½¹,
+esquid:S1854"IRemove this useless assignment to local variable "enableUpdateByExample".(øØË8ùø½¹,
+hsquid:S1192"NDefine a constant instead of duplicating this literal "targetPackage" 3 times.(‘é×âÿÿÿÿÿ

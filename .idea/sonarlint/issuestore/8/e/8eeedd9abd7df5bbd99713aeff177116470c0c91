@@ -1,0 +1,20 @@
+
+asquid:S1132"GMove the "%" string literal on the left side of this string comparison.(İĞùÈÿÿÿÿÿ
+8squid:S2095"Close this "ResultSet".(·‚ÁŠıÿÿÿÿ8ÑÕ·„¹,
+asquid:S1132"GMove the "_" string literal on the left side of this string comparison.(Ğ™£•ÿÿÿÿÿ
+bsquid:S1871"MThis branch's code block is the same as the block for the branch on line 444.(å¥‡
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(İ‹‘âùÿÿÿÿ8üî‚„¹,
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÂƒÍŠıÿÿÿÿ
+Fsquid:S1166"%Either log or rethrow this exception.(²¿ıÿÿÿÿ8“…„¹,
+Dsquid:S1066"/Merge this if statement with the enclosing one.(ŸÌ±
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+@squid:S1168"+Return an empty collection instead of null.(¥¹ï
+:squid:S1166"%Either log or rethrow this exception.(É®£
+Isquid:S1066"/Merge this if statement with the enclosing one.(Ÿ¬Ô‹úÿÿÿÿ
+Rsquid:S1764"8Identical sub-expressions on both sides of operator "&&"(×Ù‡¹ıÿÿÿÿ
+3squid:S2095"Close this "ResultSet".(˜Ùóî8ÑÕ·„¹,
+asquid:S1132"GMove the "%" string literal on the left side of this string comparison.(İĞùÈÿÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‡¸•·ùÿÿÿÿ
+asquid:S1132"GMove the "_" string literal on the left side of this string comparison.(Ğ™£•ÿÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(”Ğ”ş

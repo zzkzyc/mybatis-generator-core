@@ -1,0 +1,33 @@
+
+fsquid:S1192"QDefine a constant instead of duplicating this literal "return criteria;" 3 times.(·«š¨
+`squid:S1192"FDefine a constant instead of duplicating this literal "value" 7 times.(Û¤üÕùÿÿÿÿ
+squid:S1192"yDefine a constant instead of duplicating this literal "Map<String, Object> map = new HashMap<String, Object>();" 6 times.(˜şŠ?
+msquid:S1192"XDefine a constant instead of duplicating this literal "return (Criteria) this;" 4 times.(ÿ™çÛ
+squid:S1192"lDefine a constant instead of duplicating this literal "if (values == null || values.size() == 0) {" 4 times.(íÌ†
+gsquid:S1192"MDefine a constant instead of duplicating this literal "addCriterion" 4 times.(œí‰¯øÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "value2" 6 times.(Ğ¼”ì
+asquid:S1192"GDefine a constant instead of duplicating this literal "value1" 6 times.(êß›‡ıÿÿÿÿ
+rsquid:S1192"XDefine a constant instead of duplicating this literal "addCriterionForJDBCDate" 3 times.(‹ˆÎùÿÿÿÿ
+asquid:S1192"GDefine a constant instead of duplicating this literal "values" 5 times.(ğ•¢šşÿÿÿÿ
+esquid:S1192"PDefine a constant instead of duplicating this literal "addCriterion(\"" 4 times.(¬ ®¸
+±squid:S1192"›Define a constant instead of duplicating this literal "throw new RuntimeException(\"Value list for \" + property + \" cannot be null or empty\");" 4 times.(ãö©Ø
+usquid:S1192"[Define a constant instead of duplicating this literal "addCriterionForJDBCTime(\"" 3 times.(Ÿå‡¾ÿÿÿÿÿ
+]squid:S1192"HDefine a constant instead of duplicating this literal "return " 4 times.(ü¥Æ÷
+dsquid:S1192"JDefine a constant instead of duplicating this literal "property" 12 times.(²ì¦˜şÿÿÿÿ
+±squid:S1192"–Define a constant instead of duplicating this literal "throw new RuntimeException(\"Between values for \" + property + \" cannot be null\");" 4 times.(Şó¦­øÿÿÿÿ
+xsquid:S1192"cDefine a constant instead of duplicating this literal "map.put(\"condition\", condition);" 6 times.(«üÜÌ
+‚squid:S1192"hDefine a constant instead of duplicating this literal "if (value1 == null || value2 == null) {" 4 times.(ü›¶Èúÿÿÿÿ
+gsquid:S1192"MDefine a constant instead of duplicating this literal "Criterion(\"" 3 times.(‰Ù¦Æüÿÿÿÿ
+ssquid:S1192"YDefine a constant instead of duplicating this literal "while (iter.hasNext()) {" 4 times.(ÉĞÚåüÿÿÿÿ
+osquid:S1192"UDefine a constant instead of duplicating this literal "if (value == null) {" 4 times.(¢Üİ·øÿÿÿÿ
+usquid:S1192"[Define a constant instead of duplicating this literal "addCriterionForJDBCDate(\"" 3 times.(Šš¸óıÿÿÿÿ
+qsquid:S1192"\Define a constant instead of duplicating this literal "oredCriteria.add(criteria);" 3 times.(±î’š
+dsquid:S1192"ODefine a constant instead of duplicating this literal "java.util.List" 6 times.(ç»´Œ
+£squid:S1192"Define a constant instead of duplicating this literal "throw new RuntimeException(\"Value for \" + property + \" cannot be null\");" 4 times.(ÆÉİÕ
+esquid:S1192"KDefine a constant instead of duplicating this literal "condition" 13 times.(óÉşãûÿÿÿÿ
+nsquid:S1192"YDefine a constant instead of duplicating this literal "Map map = new HashMap();" 6 times.(¾á§Ã
+_squid:S1192"JDefine a constant instead of duplicating this literal "Criterion" 3 times.(×ÈÈ—
+rsquid:S1192"XDefine a constant instead of duplicating this literal "addCriterionForJDBCTime" 3 times.(§ òİøÿÿÿÿ
+fsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(£³çM
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(®«õîıÿÿÿÿ
+Nsquid:S1172"4Remove this unused method parameter "topLevelClass".(ÆÇ¡‘ùÿÿÿÿ
